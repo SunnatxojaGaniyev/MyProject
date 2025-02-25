@@ -1,5 +1,12 @@
 [
-    {"id": 1, "name": "Laptop", "price": 2000000},
-    {"id": 2, "name": "Smartphone", "price": 1500000},
-    {"id": 3, "name": "Tablet", "price": 1000000}
+    {"id": 1, "name": "Laptop", "price": 2000000, "weight": 2.5, "type": "physical"},
+    {"id": 2, "name": "Smartphone", "price": 1500000, "weight": 0.25, "type": "physical"},
+    {"id": 3, "name": "Tablet", "price": 1000000, "weight": 0.5, "type": "physical"},
+    {"id": 4, "name": "Headphones", "price": 300000, "weight": 0.15, "type": "physical"},
+    {"id": 5, "name": "Smartwatch", "price": 500000, "weight": 0.1, "type": "physical"},
+    {"id": 6, "name": "E-book", "price": 100000, "file_size": 5, "type": "digital"},
+    {"id": 7, "name": "Online Course", "price": 200000, "file_size": 1, "type": "digital"},
+    {"id": 8, "name": "Digital Music Album", "price": 150000, "file_size": 300, "type": "digital"},
+    {"id": 9, "name": "Software License", "price": 400000, "file_size": 10, "type": "digital"},
+    {"id": 10, "name": "Game Download", "price": 600000, "file_size": 20, "type": "digital"}
 ]
